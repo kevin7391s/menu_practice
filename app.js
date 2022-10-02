@@ -92,9 +92,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam`,
   },
 ];
-
+// used to display all menu items
 const sectionCenter = document.querySelector(".section-center");
-
+// used to display all category buttons
 const container = document.querySelector(".btn-container");
 
 // load items
